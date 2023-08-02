@@ -2,6 +2,10 @@
 
 This is a simple hero section for a website, featuring a running video in the background. The hero section serves as an eye-catching introduction to your website, grabbing the attention of visitors with dynamic visual content.
 
+## Live Demo
+
+Check out the live demo [here](https://aistushar.github.io/video-background-hero-section/).
+
 
 ## Getting Started
 
